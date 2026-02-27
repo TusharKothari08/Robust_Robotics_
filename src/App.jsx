@@ -445,7 +445,7 @@ import ResearchInnovation from "./pages/WhatWeDo/ResearchInnovation";
 import WhatWeDoLayout from "./layouts/WhatWeDoLayout";
 
 import SmartCitySolutions from "./pages/WhatWeDo/SmartCitySolutions";
-import AISurveillance from "./pages/whatwedo/AISurveillance";
+import AISurveillance from "./pages/WhatWeDo/AISurveillance";
 import { SITE_CONFIG } from "./config/siteConfig";
 
 //
